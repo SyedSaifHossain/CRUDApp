@@ -28,7 +28,7 @@
                 android:layout_width="40dp"
                 android:backgroundTint="#37A5AA"
                 android:layout_height="40dp"
-                android:src="@android:drawable/ic_menu_edit">
+                android:src="@drawable/edit">
 
             </ImageButton>
 
@@ -37,7 +37,7 @@
                 android:layout_width="40dp"
                 android:backgroundTint="#37A5AA"
                 android:layout_height="40dp"
-                android:src="@android:drawable/ic_menu_delete">
+                android:src="@drawable/delete">
 
             </ImageButton>
 
